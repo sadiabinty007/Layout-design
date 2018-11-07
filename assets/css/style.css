@@ -1,0 +1,109 @@
+body{
+	margin:0;
+}
+.fullbody{
+	
+width: 1200px;
+	
+height: 800px;
+	
+border: 1px solid green;
+	
+margin: auto;
+	
+overflow: hidden;
+}
+.margin{
+	
+background: pink;
+	
+float: left;
+	
+width: 10%;
+	
+height: 100%;
+	
+text-align: center;
+	
+margin: 5px;
+}
+.gallery{
+	
+width: 40%;
+	
+background: pink;
+	
+height: 50%;
+	
+float: left;
+	
+text-align: center;
+	
+margin: 5px;
+}
+.title{
+	
+width: 99%;
+	
+background: pink;
+	
+float: left;
+	
+margin: 5px;
+	
+text-align: center;
+	
+height: 21%;
+	
+text-align: center;
+}
+.margin2{
+	
+float: right;
+	
+width: 10%;
+	
+background: pink;
+	
+height: 100%;
+	
+text-align: center;
+	
+margin: 5px;
+}
+.tb{
+
+float: left;
+
+width: 37%;
+
+height: 50%;
+}
+.buy-box{
+	
+float: left;
+	
+background: pink;
+	
+margin: 5px;
+	
+width: 99%;
+	
+height: 77%;
+	
+text-align: center;
+}
+.description{
+	
+float: left;
+	
+height: 23%;
+	
+background: pink;
+	
+margin: 5px;
+	
+width: 77%;
+	
+text-align: center;
+}
